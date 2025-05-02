@@ -16,9 +16,3 @@ public class Main extends JFrame {
         new Main();
     }
 }
-
-class GamePanel extends JPanel {
-    public GamePanel() {
-        this.setBackground(Color.BLACK);  // game background color
-    }
-}
